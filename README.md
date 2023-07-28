@@ -23,9 +23,12 @@ To obtain user behavior and track product utilization at the user end and, based
 ## TODO LIST
 ### owl-backend
 - ⬜️ Interface authentication
-- ⬜️ Filtering of invalid data
 - ⬜️ Handling of database read and write performance of reported data
 - ⬜️ SourceMap location of JS source code
+- ⬜️ Data filtering, cleansing
+- ⬜️ Data transformation
+- ⬜️ Data storage
+- ⬜️ Alarm, early warning mechanism
 
 ## README
 - en [English](README.md)

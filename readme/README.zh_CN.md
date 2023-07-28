@@ -23,9 +23,12 @@
 ## TODO LIST
 ### Owl-Backend
 - ⬜️ 接口鉴权
-- ⬜️ 无效数据过滤
 - ⬜️ 上报数据读写数据库性能处理
 - ⬜️ SourceMap定位JS源代码
+- ⬜️ 数据过滤、清洗
+- ⬜️ 数据转换
+- ⬜️ 数据存储
+- ⬜️ 报警、预警机制
 
 ## README
 - en [English](../README.md)
